@@ -1,0 +1,293 @@
+{
+  "list": [
+    {
+      "Id": 1,
+      "ncRecordId": "rec2fcb2671d2724",
+      "ncRecordHash": "b8290a1a8719baf7ded3608d0c57ab61",
+      "Date": "1",
+      "RoomNumber": null,
+      "CreatedAt": "2025-07-01 00:00:00+00:00",
+      "UpdatedAt": "2025-07-01 12:34:56+00:00"
+    },
+    {
+      "Id": 2,
+      "ncRecordId": "recc964a0b3c2de4",
+      "ncRecordHash": "0fd90b26756d1975d760ebf6332cb5bb",
+      "Date": "2",
+      "RoomNumber": "101 - 323",
+      "CreatedAt": "2025-07-01 00:00:00+00:00",
+      "UpdatedAt": "2025-07-01 12:34:56+00:00"
+    },
+    {
+      "Id": 3,
+      "ncRecordId": "rec6251ab4dfeba4",
+      "ncRecordHash": "5d83e7f2929ddd4fb2a6851f90f0eca7",
+      "Date": "3",
+      "RoomNumber": "324 - 518",
+      "CreatedAt": "2025-07-01 00:00:00+00:00",
+      "UpdatedAt": "2025-07-01 12:34:56+00:00"
+    },
+    {
+      "Id": 4,
+      "ncRecordId": "rec63d955cd7d354",
+      "ncRecordHash": "f3ff36cd5ca8403df42e144ecf3648ab",
+      "Date": "4",
+      "RoomNumber": null,
+      "CreatedAt": "2025-07-01 00:00:00+00:00",
+      "UpdatedAt": "2025-07-01 12:34:56+00:00"
+    },
+    {
+      "Id": 5,
+      "ncRecordId": "recce960a7b92ff4",
+      "ncRecordHash": "9a08f46a489f4044efc79c09656b3ca1",
+      "Date": "5",
+      "RoomNumber": "519 - 713",
+      "CreatedAt": "2025-07-01 00:00:00+00:00",
+      "UpdatedAt": "2025-07-01 12:34:56+00:00"
+    },
+    {
+      "Id": 6,
+      "ncRecordId": "recdd57f7bdbac64",
+      "ncRecordHash": "5da3252c4614fcff5b4b50fe21a66d1c",
+      "Date": "6",
+      "RoomNumber": "714 - 919",
+      "CreatedAt": "2025-07-01 00:00:00+00:00",
+      "UpdatedAt": "2025-07-01 12:34:56+00:00"
+    },
+    {
+      "Id": 7,
+      "ncRecordId": "receef02f7d2e484",
+      "ncRecordHash": "7ed6492a444f0164ce38db3c8df52776",
+      "Date": "7",
+      "RoomNumber": "920 - 1131",
+      "CreatedAt": "2025-07-01 00:00:00+00:00",
+      "UpdatedAt": "2025-07-01 12:34:56+00:00"
+    },
+    {
+      "Id": 8,
+      "ncRecordId": "rec82817ba1f7e24",
+      "ncRecordHash": "61afe532f13aa516a0c095cf06f1e90b",
+      "Date": "8",
+      "RoomNumber": "1132 - 1551",
+      "CreatedAt": "2025-07-01 00:00:00+00:00",
+      "UpdatedAt": "2025-07-01 12:34:56+00:00"
+    },
+    {
+      "Id": 9,
+      "ncRecordId": "recc63e2b24c75c4",
+      "ncRecordHash": "1c57fee6873f019a1308932b0a128ef3",
+      "Date": "9",
+      "RoomNumber": "101 - 323",
+      "CreatedAt": "2025-07-01 00:00:00+00:00",
+      "UpdatedAt": "2025-07-01 12:34:56+00:00"
+    },
+    {
+      "Id": 10,
+      "ncRecordId": "rece6c558d8ce9d4",
+      "ncRecordHash": "02dc1783fccbb4b2f146cda8fe3e3ccb",
+      "Date": "10",
+      "RoomNumber": "324 - 518",
+      "CreatedAt": "2025-07-01 00:00:00+00:00",
+      "UpdatedAt": "2025-07-01 12:34:56+00:00"
+    },
+    {
+      "Id": 11,
+      "ncRecordId": "rec7e0b82b057ca4",
+      "ncRecordHash": "ab8d1338c89a35e36e140c8d7bf97d3f",
+      "Date": "11",
+      "RoomNumber": null,
+      "CreatedAt": "2025-07-01 00:00:00+00:00",
+      "UpdatedAt": "2025-07-01 12:34:56+00:00"
+    },
+    {
+      "Id": 12,
+      "ncRecordId": "rec58e2480a25964",
+      "ncRecordHash": "a0ee5e3f327a364347331aa48efa631e",
+      "Date": "12",
+      "RoomNumber": "519 - 713",
+      "CreatedAt": "2025-07-01 00:00:00+00:00",
+      "UpdatedAt": "2025-07-01 12:34:56+00:00"
+    },
+    {
+      "Id": 13,
+      "ncRecordId": "rec0c006fcc66f24",
+      "ncRecordHash": "a99038de6785594bee688dd26e822025",
+      "Date": "13",
+      "RoomNumber": "714 - 919",
+      "CreatedAt": "2025-07-01 00:00:00+00:00",
+      "UpdatedAt": "2025-07-01 12:34:56+00:00"
+    },
+    {
+      "Id": 14,
+      "ncRecordId": "rec9b330cf637a54",
+      "ncRecordHash": "50f87fde5b63d6a6a25f4e358b086fd9",
+      "Date": "14",
+      "RoomNumber": "920 - 1131",
+      "CreatedAt": "2025-07-01 00:00:00+00:00",
+      "UpdatedAt": "2025-07-01 12:34:56+00:00"
+    },
+    {
+      "Id": 15,
+      "ncRecordId": "rec91a0030bb9f24",
+      "ncRecordHash": "c06ae96e8cc733fa9ef9eee2568259b1",
+      "Date": "15",
+      "RoomNumber": "1132 - 1551",
+      "CreatedAt": "2025-07-01 00:00:00+00:00",
+      "UpdatedAt": "2025-07-01 12:34:56+00:00"
+    },
+    {
+      "Id": 16,
+      "ncRecordId": "rec1c448b9b946c4",
+      "ncRecordHash": "c339601a769965e01dc21d1fe06a393c",
+      "Date": "16",
+      "RoomNumber": "101 - 323",
+      "CreatedAt": "2025-07-01 00:00:00+00:00",
+      "UpdatedAt": "2025-07-01 12:34:56+00:00"
+    },
+    {
+      "Id": 17,
+      "ncRecordId": "rece494c02a3ebb4",
+      "ncRecordHash": "0b3dc1b884c721999929daf3230c2bad",
+      "Date": "17",
+      "RoomNumber": "324 - 518",
+      "CreatedAt": "2025-07-01 00:00:00+00:00",
+      "UpdatedAt": "2025-07-01 12:34:56+00:00"
+    },
+    {
+      "Id": 18,
+      "ncRecordId": "recbb31c99599ae4",
+      "ncRecordHash": "c2a7e6d13450a76cf0acc03f042657a1",
+      "Date": "18",
+      "RoomNumber": null,
+      "CreatedAt": "2025-07-01 00:00:00+00:00",
+      "UpdatedAt": "2025-07-01 12:34:56+00:00"
+    },
+    {
+      "Id": 19,
+      "ncRecordId": "rec0cbf352982f64",
+      "ncRecordHash": "853b3fc71d7a190b189abbadf0e38a6e",
+      "Date": "19",
+      "RoomNumber": "519 - 713",
+      "CreatedAt": "2025-07-01 00:00:00+00:00",
+      "UpdatedAt": "2025-07-01 12:34:56+00:00"
+    },
+    {
+      "Id": 20,
+      "ncRecordId": "rec83b92629bbf04",
+      "ncRecordHash": "95fcbef88941bfa975eab9df42212319",
+      "Date": "20",
+      "RoomNumber": "714 - 919",
+      "CreatedAt": "2025-07-01 00:00:00+00:00",
+      "UpdatedAt": "2025-07-01 12:34:56+00:00"
+    },
+    {
+      "Id": 21,
+      "ncRecordId": "rec92bc294725ff4",
+      "ncRecordHash": "0016bb683ed033fea0b56c8eda2f64b4",
+      "Date": "21",
+      "RoomNumber": "920 - 1131",
+      "CreatedAt": "2025-07-01 00:00:00+00:00",
+      "UpdatedAt": "2025-07-01 12:34:56+00:00"
+    },
+    {
+      "Id": 22,
+      "ncRecordId": "recd86ebe2947f34",
+      "ncRecordHash": "fb27a86c0dcd745dcf8a2d9b51c43945",
+      "Date": "22",
+      "RoomNumber": "1132 - 1551",
+      "CreatedAt": "2025-07-01 00:00:00+00:00",
+      "UpdatedAt": "2025-07-01 12:34:56+00:00"
+    },
+    {
+      "Id": 23,
+      "ncRecordId": "reca0268217eaec4",
+      "ncRecordHash": "2a89a534f100b9233c8828e997e4c233",
+      "Date": "23",
+      "RoomNumber": "101 - 323",
+      "CreatedAt": "2025-07-01 00:00:00+00:00",
+      "UpdatedAt": "2025-07-01 12:34:56+00:00"
+    },
+    {
+      "Id": 24,
+      "ncRecordId": "rec26146d2846434",
+      "ncRecordHash": "0150268d2cdfe864334719e17c62c68f",
+      "Date": "24",
+      "RoomNumber": "324 - 518",
+      "CreatedAt": "2025-07-01 00:00:00+00:00",
+      "UpdatedAt": "2025-07-01 12:34:56+00:00"
+    },
+    {
+      "Id": 25,
+      "ncRecordId": "reca5680b8bdb0a4",
+      "ncRecordHash": "13e017b30c84d1664004bdfaad80c6b0",
+      "Date": "25",
+      "RoomNumber": null,
+      "CreatedAt": "2025-07-01 00:00:00+00:00",
+      "UpdatedAt": "2025-07-01 12:34:56+00:00"
+    },
+    {
+      "Id": 26,
+      "ncRecordId": "rec55f9fc3a0d5f4",
+      "ncRecordHash": "5a7f93797220928c49055efb01813a74",
+      "Date": "26",
+      "RoomNumber": "519 - 713",
+      "CreatedAt": "2025-07-01 00:00:00+00:00",
+      "UpdatedAt": "2025-07-01 12:34:56+00:00"
+    },
+    {
+      "Id": 27,
+      "ncRecordId": "rec981cbe2757354",
+      "ncRecordHash": "a2cf8202712b99348ed960818d357808",
+      "Date": "27",
+      "RoomNumber": "714 - 919",
+      "CreatedAt": "2025-07-01 00:00:00+00:00",
+      "UpdatedAt": "2025-07-01 12:34:56+00:00"
+    },
+    {
+      "Id": 28,
+      "ncRecordId": "rec2be671fde9154",
+      "ncRecordHash": "54c71fdcbab3d017656c57f34b6823d9",
+      "Date": "28",
+      "RoomNumber": "920 - 1131",
+      "CreatedAt": "2025-07-01 00:00:00+00:00",
+      "UpdatedAt": "2025-07-01 12:34:56+00:00"
+    },
+    {
+      "Id": 29,
+      "ncRecordId": "rec78c22b49b9e94",
+      "ncRecordHash": "eb69506edfd7f62ef1ff03d44834bd8f",
+      "Date": "29",
+      "RoomNumber": "1132 - 1551",
+      "CreatedAt": "2025-07-01 00:00:00+00:00",
+      "UpdatedAt": "2025-07-01 12:34:56+00:00"
+    },
+    {
+      "Id": 30,
+      "ncRecordId": "rec2fb341eb5bd44",
+      "ncRecordHash": "5ee7f28aa70f8389321eb0dbef67eb96",
+      "Date": "30",
+      "RoomNumber": null,
+      "CreatedAt": "2025-07-01 00:00:00+00:00",
+      "UpdatedAt": "2025-07-01 12:34:56+00:00"
+    },
+    {
+      "Id": 31,
+      "ncRecordId": "reccea9de17e68d4",
+      "ncRecordHash": "61b874904aee26eef94c3bfbb2c07f70",
+      "Date": "31",
+      "RoomNumber": null,
+      "CreatedAt": "2025-07-01 00:00:00+00:00",
+      "UpdatedAt": "2025-07-01 12:34:56+00:00"
+    }
+  ],
+  "pageInfo": {
+    "totalRows": 31,
+    "page": 1,
+    "pageSize": 50,
+    "isFirstPage": true,
+    "isLastPage": true
+  },
+  "stats": {
+    "dbQueryTime": "1.234"
+  }
+}
