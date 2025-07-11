@@ -2,8 +2,8 @@
   "list": [
     {
       "Id": 1,
-      "ncRecordId": "rec3cfe70a8246d4",
-      "ncRecordHash": "04a561e91794f53863e0e31f1c9ff708",
+      "ncRecordId": "recf8e3076c140b4",
+      "ncRecordHash": "9a03570734231c50536f878e0705e010",
       "Day": "Monday",
       "Breakfast": "ALOO-GOBHI PARATHA ,VEG KICHIDI,EGG-BHURJI(INDIAN STYLE),MUSKMELON JUICE, CHOCOS, BBJ,TMC,SPROUTS WITH ONION AND LEMON,VADA, COCONUT CHUTNEY",
       "Lunch": "BISIBELEBATH, RAJMA CURRY ,RICE,JEERA- RASAM,PHULKA, POTATO CHIPS,RICE PAYASAM, BUTTERMILK, CURD, SALAD(TOMATO, CUCUMBER, ONIONS, CARROT), CABBAGE PORIYAL, podi, ghee",
@@ -14,8 +14,8 @@
     },
     {
       "Id": 2,
-      "ncRecordId": "recb54483675ad74",
-      "ncRecordHash": "3289e138fc27da0b2e9ffefb6142ee7b",
+      "ncRecordId": "rec2e8d737a68b54",
+      "ncRecordHash": "c49cc630cc27ab1b9d8ad0b2d7ce14df",
       "Day": "Tuesday",
       "Breakfast": "PONGAL,OMELLETE WITH SPICE ,SAMBAR,MEDU VADA,CHUTNEY,CHOCOS,TMC,BBJ,MOSAMBI JUICE,BOILED SPROUTS WITH ONION AND LEMON, CUCUMBER AND TOMATO, SEMIYA UPMA",
       "Lunch": "ACHARI PANEER,BUTTER- PHULKA, JEERA RICE, RICE,PARUPPU RASAM, BUTTER MILK,CARROT PORIYAL, KARAKOZHMBU, SALAD, PAPAD, CURD",
@@ -26,8 +26,8 @@
     },
     {
       "Id": 3,
-      "ncRecordId": "rec2eaf7137a11b4",
-      "ncRecordHash": "6018bd5d27ae2a04e95780accbd953fe",
+      "ncRecordId": "rec94c37510db794",
+      "ncRecordHash": "222ac94153bc9c3521df7c078499ed73",
       "Day": "Wednesday",
       "Breakfast": "GHEE SOOJI UPMA WITH CARROT AND BEANS,SAMBAR, POORI AND MASALA , PICKLE, CHOCOS, TMC, BBJ, ORANGE JUICE, OMELETTE, CURD",
       "Lunch": "TRAVANCORE CHICKEN ROAST/CHICKEN 65, RICE, KADAI MUSHROOM, JEERA ARBI, LEMON RASAM, CURD,PARPPU PODI,GHEE, LEMON JUICE, SEMIYA PAYASAM, SALAD(TOMATO, CUCUMBER, ONIONS, CARROT)",
@@ -38,8 +38,8 @@
     },
     {
       "Id": 4,
-      "ncRecordId": "rece462472fbcbf4",
-      "ncRecordHash": "33e90262988212b563f3a00deaa2ef4b",
+      "ncRecordId": "reca8312011eff84",
+      "ncRecordHash": "4bd2f9b023b6ab22b044498656ee88ea",
       "Day": "Thursday",
       "Breakfast": "IDIYAPPAM,VADA,COCONUT MILK, CHOCOS, PINEAPPLE JUICE,BBJ,TMC,SPROUTS WITH ONION AND LEMON,CUCUMBER,TOMATO, FRENCH TOAST",
       "Lunch": "PHULKA,VEGETABLE PULOA,SOYACURRY, DAL TADKA,  RICE,RASAM,CARROT, CUCUMBER ,BEETROOT PORIYAL,PAPPAD,\nPARPPU  CURD, FRYUMS,  BUTTERMILK",
@@ -50,8 +50,8 @@
     },
     {
       "Id": 5,
-      "ncRecordId": "rec92a5f662eb7e4",
-      "ncRecordHash": "6b334bfaabd1bc8ac808e0ccf5f80bbc",
+      "ncRecordId": "rec572a7146ec964",
+      "ncRecordHash": "5d17f2228202c46b2b8a180bc5852d40",
       "Day": "Friday",
       "Breakfast": "PAV BHAJI, SABUDHANA KICHIDI, PARUPPU VADA, CHOCOS,BBJ,TMC,  POMOGRANATE JUICE,BOILED SPROUTS WITH ONION AND LEMON, PODI, SCRAMBLED EGGS",
       "Lunch": "PANEER BUTTER MASALA, PHULKA ,RICE,PEPPER RASAM,RAW MANGO SAMBHAR, BAINGAN BHARTA,KESARI, LEMON RICE,PARUPPU PODI,GHEE, CURD,LEMON JUICE,CUCUMBER,POTATO CHIPS",
@@ -62,8 +62,8 @@
     },
     {
       "Id": 6,
-      "ncRecordId": "recc0997067e85d4",
-      "ncRecordHash": "1728d3d3c7a2d4a233335bb50606e398",
+      "ncRecordId": "rec44904e196b634",
+      "ncRecordHash": "1014c77f976cbf26eba4fb639b2afb6d",
       "Day": "Saturday",
       "Breakfast": "IDLI ,VADA CURRY,ONION CHUTNEY, ALOO MATAR POHA,BOILED EGG, BBJ,TMC, CORN FLAKES , GRAPES JUICE,SPROUTS WITH ONION AND LEMON, PODI, OIL",
       "Lunch": "street style fried rice, street style egg fried rice, manchurian balls, rice, PEPPER rasam,  ,SALAD(TOMATO, CUCUMBER, ONIONS, CARROT),french fries,PARUPPU PODI,GHEE, BUTTERMILK",
@@ -74,8 +74,8 @@
     },
     {
       "Id": 7,
-      "ncRecordId": "recd582f3028d934",
-      "ncRecordHash": "6ef6103bd66b439e6fb0faa3045b016e",
+      "ncRecordId": "rec7b07aa6b68104",
+      "ncRecordHash": "a599edaf7ea1f1b466d3b8ede285dd32",
       "Day": "Sunday",
       "Breakfast": "DOSA,SAMBAR,SABUDANA KICHIDI,TOMATO THOKKU,VADA,MASALA  BOILED EGG,CORNFLAKES,TMC,BBJ, WATERMELON JUICE,SPROUTS WITH ONION AND LEMON,  PODI, GINGLY OIL",
       "Lunch": "VEG BRIYANI, CURD RICE WITH FRUITS,BRINJAL CURRY, DINDUGUL CHICKEN BRIYANI,ONION RAITHA,PHULKA,RICE,RASAM, GOBI 65,ICE CREAM,  MINT LEMON JUICE, BOILED EGG,CUCUMBER",

@@ -2,8 +2,8 @@
   "list": [
     {
       "Id": 1,
-      "ncRecordId": "rec085dbdf9bb444",
-      "ncRecordHash": "068c47e00a219eb847f4db35b83748ac",
+      "ncRecordId": "rec8d30ca78ef0a4",
+      "ncRecordHash": "487040a2e2022ecfafe4b0dd11b82450",
       "Day": "Monday",
       "Breakfast": "Idli, Sambhar, aloo parotta,curd,pickle,tomato chutney, butter,jam,tea, coffee,\n",
       "Lunch": "Karakolambu, Achari Paneer do Pyaza, Dal fry, phulka, Rasam, White Rice, Carrot Beans poriyal, Appalam, Cucumber, Curd, Pickle, sugar, salt\n",
@@ -14,8 +14,8 @@
     },
     {
       "Id": 2,
-      "ncRecordId": "recded532943b824",
-      "ncRecordHash": "a9699ce742465945015d2c70a09fafb9",
+      "ncRecordId": "rec941c855008bd4",
+      "ncRecordHash": "990e9e12567488b9e591f40265ce9d76",
       "Day": "Tuesday",
       "Breakfast": "Semya Upma, Poori, White channa masala gravy, pineapple kesari , paruppu vada, sprouts, TMC , BBJ\n",
       "Lunch": "Bisbillabath, Ladies Finger poriyal, White Rice, Rasam, Pickle , phulka, potato chips, moong daal, rice payasam, lemon juice, salt\n",
@@ -26,8 +26,8 @@
     },
     {
       "Id": 3,
-      "ncRecordId": "recd83364f89a824",
-      "ncRecordHash": "6b961e8ddb28f2f65b42b272955ae587",
+      "ncRecordId": "rec0bea5940db3f4",
+      "ncRecordHash": "d8146dcdf03a298f4f1769dcc0e2b702",
       "Day": "Wednesday",
       "Breakfast": " Thin crispy dosa, Vada curry,poha,lemon ,TMC , BBJ\n",
       "Lunch": "Rajma, Jeera rice, phulka, coconut rice, masala potato fry, white rice, rasam, pickle, tadka buttermilk, fryums, salt\n",
@@ -38,8 +38,8 @@
     },
     {
       "Id": 4,
-      "ncRecordId": "recbe135da8e5094",
-      "ncRecordHash": "bd2e5374d5bb5bec6e2499cd3ed559e3",
+      "ncRecordId": "rec4a630e74da7d4",
+      "ncRecordHash": "ec4d98f44a2f0ba599793f0a495ab483",
       "Day": "Thursday",
       "Breakfast": "Paneer Paratha, Curd, Pickle, Pongal, Medhu Vada, sambhar, white chutney,TMC , BBJ\n",
       "Lunch": "Raw Mango Sambhar, Aviyal, Vegetable Pulao, Boondhi Raita, White Rice, Chappathi, Soya Bean gravy, Rasam, Pickle, Bat chips, semiya payasam, Sugar, salt\n",
@@ -50,8 +50,8 @@
     },
     {
       "Id": 5,
-      "ncRecordId": "recf794db3f82824",
-      "ncRecordHash": "c2d85894871f6e072df86e8df692a3d5",
+      "ncRecordId": "rec8ad4513f7f314",
+      "ncRecordHash": "960ddc41995f52e45c8b6fdcfa7c8f67",
       "Day": "Friday",
       "Breakfast": "Rava upma, white chutney, sprouts,ragi puttu, cherupayiru , shredded coconut , sambhar TMC , BBJ\n",
       "Lunch": "yam poriyal,white rice, rasam, pickle, methi matar malai gravy, morekolumbu with vada , phulka,  curd\n",
@@ -62,8 +62,8 @@
     },
     {
       "Id": 6,
-      "ncRecordId": "recb443a40e006d4",
-      "ncRecordHash": "f4e57e6bb362719430f8d9f8b1f42c34",
+      "ncRecordId": "rec55bd304259784",
+      "ncRecordHash": "0b49dbf98bcb97eff598b63208e552a4",
       "Day": "Saturday",
       "Breakfast": " Paav Bhaji, Kichadi, white chutney, vada , TMC , BBJ \n",
       "Lunch": "white rice, rasam,raddish sambhar,ghee rice with caramalised onion, phulka, beetroot poriyal, dal, aloo palak gravy, appalam, buttermilk\n",
@@ -74,8 +74,8 @@
     },
     {
       "Id": 7,
-      "ncRecordId": "rec4de8e4cad7d94",
-      "ncRecordHash": "50ba6219aa650f025a3cce7a5758491c",
+      "ncRecordId": "rece29098c4b0024",
+      "ncRecordHash": "e72ed7abc13fb63fdbe4516bc0457b15",
       "Day": "Sunday",
       "Breakfast": "Idiyappam, Coconut milk,kadala curry, gobi paratha,curd,pickle ,BBJ,TMC \n",
       "Lunch": "white rice, channa dal,, ghee , veg soya briyani , onion cucumber raita , gobi 65 , curdrice ,chapati, navratan kurma, chilled mint lemon juice ,fryums.\n",

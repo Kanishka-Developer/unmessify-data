@@ -2,8 +2,8 @@
   "list": [
     {
       "Id": 1,
-      "ncRecordId": "rec208d958a10154",
-      "ncRecordHash": "1b243310f578a58a26dcc89666d4eb82",
+      "ncRecordId": "rec79421c1393674",
+      "ncRecordHash": "3ca972e047827c7911098d750a053f4a",
       "Day": "Monday",
       "Breakfast": "FRENCH TOAST, ALOO PARANTHA, DAHI, PICKLE, SEMIYA KHICHDI,  TMC, BBJ",
       "Lunch": "RAJMA, TOMATO RICE, PICKLE, WHITE RICE, RASAM, PHULKA, MASALA BUTTERMIK, MOONG DAL , GOBHI 65, RAVA KESARI",
@@ -14,8 +14,8 @@
     },
     {
       "Id": 2,
-      "ncRecordId": "rec365aa2f3e8aa4",
-      "ncRecordHash": "a51fff3f8d9a5b33110268dde2602852",
+      "ncRecordId": "recbb960f6d7b704",
+      "ncRecordHash": "8e1f675892de263388522942a353acd2",
       "Day": "Tuesday",
       "Breakfast": "OMLETTE, IDLI ,VADA, SAMBAR, COCONUT CHUTNEY, VEGETABLE MASALA POHA, TOASTED BREAD, SLICED CUCUMBER, ONION ,TOMATO, TMC, BBJ",
       "Lunch": "PANNER BHURJI, BISBELLA BATH, POTATO CHIPS ,CURD ,  PHULKA , DAL, WHITE RICE , SUGAR, CUCUMBER, PAPAD, SUGAR  ONION CARROT, SALT, PICKLE, PAYASAM, GHEE",
@@ -26,8 +26,8 @@
     },
     {
       "Id": 3,
-      "ncRecordId": "rec60abe58993af4",
-      "ncRecordHash": "d35d5135afdcfd0d401963f67ded7b1d",
+      "ncRecordId": "rec0e9cfd7ca1644",
+      "ncRecordHash": "11d0c9033cd4b203113030899b09118f",
       "Day": "Wednesday",
       "Breakfast": "FFRENCH TOAST,POORI, ALOO SABZI, MIX VEG UTTHAPAM, COCONUT CHUTNEY, SAMBAR, TMC,BBJ",
       "Lunch": "CHICKEN PEPPER FRY (BOTH MESS), GHEE RICE WITH FRIED ONION AND FRIED CASHEW, PHULKA, DRY BHINDI, DAL MAKHNI, WHITE RICE, RASAM, ONION, LEMON, BUTTERMILK, PICKLE, GHEE PHULKA",
@@ -38,8 +38,8 @@
     },
     {
       "Id": 4,
-      "ncRecordId": "rec1c76c5af82264",
-      "ncRecordHash": "480a3fa8948a3c4b51125ff559518506",
+      "ncRecordId": "recf33474daaf174",
+      "ncRecordHash": "a080a1cb22c6f9592d2cdc18cd561d9e",
       "Day": "Thursday",
       "Breakfast": "BOILED EGG, ALOO PARATHA, DAHI,PICKLE, PONGAL, SAMBAR, KADALA CURRY, TMC,BBJ",
       "Lunch": "CHILLY GOBI (SEMI DRY), WHITE RICE, MINT RICE, CURD, DRUMSTICK KARAKUEZHAMBU, PHULKA, FRYUMS, CABBAGE PORIYAL,CHANA  TADKA, SUGAR, SALT, LEMON, ONION, CUCUMBER, CARROT, SOOJI KA HALWA  ",
@@ -50,8 +50,8 @@
     },
     {
       "Id": 5,
-      "ncRecordId": "recdf73f73a79594",
-      "ncRecordHash": "16a4270e343ab3ddcd63e3b8076f5672",
+      "ncRecordId": "recd30dea54f8fb4",
+      "ncRecordHash": "4a5cc36d9c39e91ff3d0d38de924d992",
       "Day": "Friday",
       "Breakfast": "OMLETTE, CRISPY THIN DOSA,VADACURRY,  SAMBAR, COCONUT CHUTNEY, SABUDANA KHICHDI, TMC, BBJ",
       "Lunch": "DUM  ALOO CURRY, PHULKA, TOMATO RICE, DAL TADKA, RASAM, MASALA BUTTERMILK, PICKLE, ONION CUCUMBER ,PICKLE, PAPAD, ",
@@ -62,8 +62,8 @@
     },
     {
       "Id": 6,
-      "ncRecordId": "rec2a63d156254d4",
-      "ncRecordHash": "bd395d880f9a67dead09f72286fe2ab7",
+      "ncRecordId": "recc6a1d41e1ed34",
+      "ncRecordHash": "a37cd4124230fd4f62a38f393e3c4785",
       "Day": "Saturday",
       "Breakfast": " PAV BHAJI, CHOPPED ONIONS, VEGETABLE UPMA, COCONUT CHUTNEY, SAMBAR, TMC,BBJ ",
       "Lunch": "MIX VEG DRY PORIYAL, KADHAI PANNER, PHULKA, JEERA RICE, GREEN DAL, RASAM, RADISH SAMBAR, CURD, SUGAR, ONION, CUCUMBER ",
@@ -74,8 +74,8 @@
     },
     {
       "Id": 7,
-      "ncRecordId": "recf2703c48582b4",
-      "ncRecordHash": "dbce28296ad7a8b84a2c7b2fc8c23fe6",
+      "ncRecordId": "recc9e6739064104",
+      "ncRecordHash": "a5fd73de2f63e2454492a5a61b95136d",
       "Day": "Sunday",
       "Breakfast": "GOBHI PARATHA, DAHI, PICKLE, IDLI, VADA, SAMBAR, COCONUT CHUTNEY , TMC,BBJ ",
       "Lunch": "HYDERABADI CHICKEN BIRYANI, BOILED EGG, MIRCHI KA SALAN, LEMON JUICE, ONION, CUCUMBER RAITA, CUCUMBER, TOMATO , CURD RICE",

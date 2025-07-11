@@ -2,8 +2,8 @@
   "list": [
     {
       "Id": 1,
-      "ncRecordId": "rec02db96841fb44",
-      "ncRecordHash": "2e6a66e668e8d034abe28fa83f4172fb",
+      "ncRecordId": "rec2daa0e45bbfd4",
+      "ncRecordHash": "ead5cb8f34ec9ca838bac5d504adab45",
       "Day": "Monday",
       "Breakfast": "1. Puri + White Chana Masala (Weeks 1 & 3) / Black Chana Masala (2 & 4)\n2. Millet Idly + Vada + Sambar + Groundnut Chutney\n3. Omelette (Weeks 1 & 3) / Egg Podimas (Weeks 2 & 4)\n4. Toasted Brown Bread + Butter + Jam\n5. Tea / Coffee / Milk",
       "Lunch": "1. Phulka + Veg Kadai Gravy (Weeks 1 & 3) / Dal Tadka (Weeks 2 & 4)\n2. Tomato Rice + Aloo Fry (Weeks 1 & 3) / Gobi 65 (Weeks 2 & 4)\n3. White Rice + Raddish Sambar + Rasam + Curd + Fryums\n4. Parupu Podi + Ghee + Thovaiyal + Papad\n5. Pineapple + Payasam / Kesari + Pickle",
@@ -14,8 +14,8 @@
     },
     {
       "Id": 2,
-      "ncRecordId": "rec11a365d049c84",
-      "ncRecordHash": "06648b4ff37d68079eb8adf71d460fec",
+      "ncRecordId": "receb5174e52cbc4",
+      "ncRecordHash": "6c942db94b32a7573d52d0d874f39468",
       "Day": "Tuesday",
       "Breakfast": "1. Aloo Paratha + Tomato Onion Gravy + Curd\n2. Millet Pongal + Vada + Sambar + Coconut Chutney\n3. Boiled Egg (Dispense in Hot Water)\n4. Brown Bread + Butter  + Jam\n5. Tea / Coffee / Milk",
       "Lunch": "1. Chapathi + Paneer Tikka Masala\n2. Ghee Rice\n3. White Rice + More Kulambu (Weeks 1 & 3) / Motchai Karakulambu (Weeks 2 & 4) + Pepper Rasam + Carrot & Beans Poriyal + Curd\n4. Parupu Podi + Ghee + Thovaiyal + Papad\n5. Banana + Pickle",
@@ -26,8 +26,8 @@
     },
     {
       "Id": 3,
-      "ncRecordId": "rec0439c955ba154",
-      "ncRecordHash": "b7b3fc909279f4e7f05a3ed2726d5b78",
+      "ncRecordId": "rec2b1c0cf820084",
+      "ncRecordHash": "d494e0a98a8d92f21baea498eab4a31a",
       "Day": "Wednesday",
       "Breakfast": "1. Millet Upma (Weeks 1 & 3) / Rava Kitchadi (Weeks 2 & 4)\n2. Masala Dosai + Sambar + Groundnut Chutney\n3. Egg Omelette\n4. Toasted Brown Bread + Butter + Jam\n5. Tea / Coffee / Milk",
       "Lunch": "1. Ajwain Chapathi + Dragon Chicken (Weeks 1 & 3) / Butter chicken masala (Weeks 2 & 4)\n2. Veg. Pulao\n3. White Rice + Mix. Veg Pappu + Rasam + Chettinad Beans and Cauliflower (Weeks 1 & 3) / Cabbage Porial (Weeks 2 & 4) + Curd\n4. Parupu podi + Ghee / Oil + Thovaiyal\n5. Fruit Salad + Pappad + Pickle + Jal Jeera (Weeks 1 & 3) / Lemon Mint Juice (Weeks 2 & 4)",
@@ -38,8 +38,8 @@
     },
     {
       "Id": 4,
-      "ncRecordId": "recce37f4cca29e4",
-      "ncRecordHash": "8e71a64cf06fa8541f599040bf845e2f",
+      "ncRecordId": "recd850819195344",
+      "ncRecordHash": "04251083ec8ad7482f9ae82da9ff0930",
       "Day": "Thursday",
       "Breakfast": "1. Misal Pav\n2. Podi Dosa + Sambar + Peanut Onion Chutney\n3. Egg Podimas\n4. Bread + Butter + Jam\n5. Tea / Coffee / Milk",
       "Lunch": "1. Chapathi + Veg Kuruma\n2. Bisibilabath + Potato Chips\n3. White Rice + More Kuzhambu + Kerrai Kootu + Dhal Fry\n4. Parupu podi + Ghee + Thovaiyal\n5. Watermelon Fruit + Papad + Pickle + Butter Milk",
@@ -50,8 +50,8 @@
     },
     {
       "Id": 5,
-      "ncRecordId": "rec50f9957f4fd94",
-      "ncRecordHash": "e7994b27f978e0fe939996fad1f29fc0",
+      "ncRecordId": "rec9057a0d41feb4",
+      "ncRecordHash": "1deb3654ea001c83626b42bf9824debd",
       "Day": "Friday",
       "Breakfast": "1. Onion Dosa + Sambar + Mint, coriander and curry leaves Chutney\n2. Potato Poha + Onion\n3. Egg Masala Omlette\n4. Toasted Brown Bread + Butter + Jam\n5. Tea / Coffee / Milk",
       "Lunch": "1. Phulka + Kadai Chicken Curry (Weeks 1 & 3) / Chicken Tandoori + Chicken Gravy (without pieces) (Weeks 2 & 4)\n2. Jeera RIce (Weeks 1 & 3) / Tomato Rice (Weeks 2 & 4) + Pappad\n3. White Rice + Drumstick Sambar + Potato, pattani masiyal (Weeks 1 & 3) / Pudalangai Poriyal (Weeks 2 & 4) + Pepper Rasam + Butter Milk\n4. Parupu podi + Ghee + Thovaiyal\n5. Banana + Pickle + Lime Juice",
@@ -62,8 +62,8 @@
     },
     {
       "Id": 6,
-      "ncRecordId": "reccb4bb4f79db64",
-      "ncRecordHash": "98d445f4d10a30d6e76d1356d95d7f41",
+      "ncRecordId": "rec699aec87e38e4",
+      "ncRecordHash": "8b1ed273ef4dcbc1c1c45b650a442fe7",
       "Day": "Saturday",
       "Breakfast": "1. Paneer Paratha + Tomato Chutney\n2. Pongal + Vada + Sambar\n3. Boiled Egg\n4. Bread + Butter + Jam\n5. Tea / Coffee / Milk",
       "Lunch": "1. Phulka + Dhal Fry (Weeks 1 & 3) / Dhal Panjabi (Weeks 2 & 4)\n2. Fried Rice + Chilli Gobi (Weeks 1 & 3) / Bhindhi Fry (Weeks 2 & 4)\n3. White Rice + Karakulambu + Rasam + Curd  + Keerai Porial\n4. Parupu podi + Ghee + Thovaiyal \n5. Pineapple + Papad + Pickle + Lemon Juice",
@@ -74,8 +74,8 @@
     },
     {
       "Id": 7,
-      "ncRecordId": "rec8d37a647f9fd4",
-      "ncRecordHash": "25c0c091a2ab99404ec048e55aefd5ef",
+      "ncRecordId": "recbf39fd19ac644",
+      "ncRecordHash": "01d43d2bb0e1f74d66027c04b6dbdeca",
       "Day": "Sunday",
       "Breakfast": "1. Pav Bajji + Chopped Onion & Lemon\n2. Idly + Vada + Sambar + Chettinad Kara Chutney\n3. Egg Burji\n4. Toasted Brown Bread + Butter + Jam\n5. Tea / Coffee / Milk",
       "Lunch": "1. Hyderabad Chicken Biryani (Weeks 1 & 3) / Dindigul Chicken Biryani (Weeks 2 & 4) + Plain Chicken Gravy + Onion Raitha\n2. Pulka + Black Channa Dal\n3. Plain Rice + Rasam\n4. Fruit Salad (Green Grapes + Papaya) (Weeks 1 & 3) / Salad (Weeks 2 & 4) + Chilled Baddam Milk\n5. Parupu podi + Ghee + Thovaiyal (Weeks 1 & 3)",
